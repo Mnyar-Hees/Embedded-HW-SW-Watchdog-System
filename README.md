@@ -1,4 +1,4 @@
-# Embedded HW/SW Watchdog System (Task 5)
+# Embedded HW/SW Watchdog System 
 
 This project implements a hardware/software watchdog demonstrator on the **DE10-Lite (Intel MAX 10)** board. The system shows how a watchdog timer can automatically reset an embedded system when the software hangs.
 
